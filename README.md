@@ -1,3 +1,6 @@
+## DASHBOARD LINK : 
+https://app.powerbi.com/groups/8fea09f6-ecec-4362-a845-c901e7895240/dashboards/89fc5582-ee0e-41dd-b15a-542ed71641aePowerBi
+
 ## BlinkIT Grocery Analysis Dashboard - Power BI 
 
 This project is an interactive Power BI dashboard designed to analyze sales performance, 
